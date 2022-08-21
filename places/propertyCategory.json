@@ -1,0 +1,53 @@
+[
+  {
+    "id":101,
+    "name":"cottage",
+    "img":"https://ik.imagekit.io/tejender/bnb/cottage_Y4lC_iuOS.webp"
+  },
+  {
+    "id":102,
+    "name":"Treehouse",
+    "img":"https://ik.imagekit.io/tejender/bnb/treehouse_TugTEa5b1.webp"
+  },
+  {
+     "id":103,
+    "name":"mud house",
+    "img":"https://ik.imagekit.io/tejender/bnb/mudhouse_qyNMtMK3L.jpeg"
+  },
+   {
+   "id":104,
+    "name":"homestay",
+    "img":"https://ik.imagekit.io/tejender/bnb/homestay_kztV7emod.jpeg"
+  },
+  {
+     "id":105,
+    "name":"river view",
+    "img":"https://ik.imagekit.io/tejender/bnb/riverview_o8ZB1zvx_.png"
+  },
+  {
+     "id":106,
+    "name":"mountain view",
+    "img":"https://ik.imagekit.io/tejender/bnb/mountainview_CHzIiZzaW.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661093986225"
+  },
+  {
+     "id":107,
+    "name":"couple",
+    "img":"https://ik.imagekit.io/tejender/bnb/couple_0NkPdx9-U.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661094472561"
+  },
+  {
+     "id":108,
+    "name":"family",
+    "img":"https://ik.imagekit.io/tejender/bnb/family_ajmBSuYLC.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661094470667"
+  },
+  {
+     "id":109,
+    "name":"friends",
+    "img":"https://ik.imagekit.io/tejender/bnb/friends_prtKZzzD6H.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661094469251"
+  },
+     {
+     "id":110,
+    "name":"peaceful",
+    "img":"https://ik.imagekit.io/tejender/bnb/peacefull_-v0Ez54x_.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661094473123"
+  }
+  
+]
