@@ -1,0 +1,25 @@
+[
+  {
+    "id":301,
+    "name":"Waterfalls",
+    "img":"https://ik.imagekit.io/tejender/bnb/placesToVisit/waterfall_LoT2POIz1.jpg" 
+  },
+  
+  {
+    "id":302,
+    "name":"Historical & Religious",
+    "img":"https://ik.imagekit.io/tejender/bnb/placesToVisit/temple_sxuKZUwPC.jpg" 
+  },
+  
+  {
+    "id":303,
+    "name":"National Park",
+    "img":"https://ik.imagekit.io/tejender/bnb/placesToVisit/ghnp_6hYvyrj4H.jpg"    
+  },
+  
+  {
+    "id":304,
+    "name":"Mountains",
+    "img":"https://ik.imagekit.io/tejender/bnb/placesToVisit/mountain_mh_22WAzjF.webp"  
+  }
+]
