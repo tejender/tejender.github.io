@@ -40,7 +40,7 @@
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
   },
   {
-    "id":1,
+    "id":5,
     "ownerId":1001,
     "prpertyType":"cottage",
     "price":1200,
@@ -50,7 +50,7 @@
     "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
   },
     {
-    "id":2,
+    "id":6,
     "ownerId":1002,
     "prpertyType":"cottage",      
     "price":2500,
@@ -60,7 +60,7 @@
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
   },
     {
-    "id":3,
+    "id":7,
     "ownerId":1003,
     "prpertyType":"treehouse",    
     "price":4000,
@@ -70,7 +70,7 @@
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
   },
     {
-    "id":4,
+    "id":8,
     "ownerId":1004,
     "prpertyType":"mud house",    
     "price":2000,
@@ -80,7 +80,7 @@
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
   },
   {
-    "id":1,
+    "id":9,
     "ownerId":1001,
     "prpertyType":"cottage",
     "price":1200,
@@ -90,7 +90,7 @@
     "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
   },
     {
-    "id":2,
+    "id":10,
     "ownerId":1002,
     "prpertyType":"cottage",      
     "price":2500,
@@ -100,7 +100,7 @@
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
   },
     {
-    "id":3,
+    "id":11,
     "ownerId":1003,
     "prpertyType":"treehouse",    
     "price":4000,
@@ -110,7 +110,7 @@
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
   },
     {
-    "id":4,
+    "id":12,
     "ownerId":1004,
     "prpertyType":"mud house",    
     "price":2000,
