@@ -30,5 +30,71 @@
     "region":"jibhi",
     "name":"the mud house",
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
+  },
+  
+  {
+    "id":1,
+    "ownerId":1001,
+    "prpertyType":"cottage",
+    "region":"jibhi",
+    "name":"El Nido",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
+  },
+    {
+    "id":2,
+    "ownerId":1002,
+    "prpertyType":"cottage",
+    "region":"tirthan",
+    "name":"Farm Stay in jibhi",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
+  },
+    {
+    "id":3,
+    "ownerId":1003,
+    "prpertyType":"treehouse",
+    "region":"tandi",
+    "name":"PineWood treehouse",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
+  },
+    {
+    "id":4,
+    "ownerId":1004,
+    "prpertyType":"mud house",
+    "region":"jibhi",
+    "name":"the mud house",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
+  },
+  
+  {
+    "id":1,
+    "ownerId":1001,
+    "prpertyType":"cottage",
+    "region":"jibhi",
+    "name":"El Nido",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
+  },
+    {
+    "id":2,
+    "ownerId":1002,
+    "prpertyType":"cottage",
+    "region":"tirthan",
+    "name":"Farm Stay in jibhi",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
+  },
+    {
+    "id":3,
+    "ownerId":1003,
+    "prpertyType":"treehouse",
+    "region":"tandi",
+    "name":"PineWood treehouse",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
+  },
+    {
+    "id":4,
+    "ownerId":1004,
+    "prpertyType":"mud house",
+    "region":"jibhi",
+    "name":"the mud house",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
   }
 ]
