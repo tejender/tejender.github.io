@@ -6,7 +6,7 @@
     "price":1200,
     "AccomodationType":"shared room",
     "region":"jibhi",   
-    "name":"El Nido",
+    "name":"river side cottage",
     "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
   },
     {
@@ -22,7 +22,7 @@
     {
     "id":3,
     "ownerId":1003,
-    "prpertyType":"treehouse",    
+    "prpertyType":"cottage",    
     "price":4000,
     "AccomodationType":"Entire place",
      "region":"tandi",
@@ -32,11 +32,11 @@
     {
     "id":4,
     "ownerId":1004,
-    "prpertyType":"mud house",    
+    "prpertyType":"cottage",    
     "price":2000,
     "AccomodationType":"Private Room",
       "region":"jibhi",
-    "name":"the mud house",
+    "name":"fairytale cottage",
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
   },
   {
@@ -46,7 +46,7 @@
     "price":1200,
     "AccomodationType":"shared room",
     "region":"jibhi",   
-    "name":"El Nido",
+    "name":"wooden hut in apple orchard",
     "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
   },
     {
@@ -56,7 +56,7 @@
     "price":2500,
     "AccomodationType":"Entire place",
     "region":"tirthan",     
-    "name":"Farm Stay in jibhi",      
+    "name":"dreamy - 4 bedroom cottage",      
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
   },
     {
@@ -66,17 +66,17 @@
     "price":4000,
     "AccomodationType":"Entire place",
      "region":"tandi",
-    "name":"PineWood treehouse",
+    "name":"a cottage by river",
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
   },
     {
     "id":8,
     "ownerId":1004,
-    "prpertyType":"mud house",    
+    "prpertyType":"cottage",    
     "price":2000,
     "AccomodationType":"Private Room",
       "region":"jibhi",
-    "name":"the mud house",
+    "name":"falcon nest cottage",
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
   },
   {
@@ -86,7 +86,7 @@
     "price":1200,
     "AccomodationType":"shared room",
     "region":"jibhi",   
-    "name":"El Nido",
+    "name":"romantic gateway",
     "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
   },
     {
@@ -96,13 +96,13 @@
     "price":2500,
     "AccomodationType":"Entire place",
     "region":"tirthan",     
-    "name":"Farm Stay in jibhi",      
+    "name":"Beautyful sunny cottage",      
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
   },
     {
     "id":11,
     "ownerId":1003,
-    "prpertyType":"treehouse",    
+    "prpertyType":"cottage",    
     "price":4000,
     "AccomodationType":"Entire place",
      "region":"tandi",
@@ -112,11 +112,251 @@
     {
     "id":12,
     "ownerId":1004,
-    "prpertyType":"mud house",    
+    "prpertyType":"cottage",    
+    "price":2000,
+    "AccomodationType":"Private Room",
+      "region":"jibhi",
+    "name":"jungle trail cottage",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
+  },
+   {
+    "id":13,
+    "ownerId":1001,
+    "prpertyType":"picturesque treehouse",
+    "price":1200,
+    "AccomodationType":"shared room",
+    "region":"jibhi",   
+    "name":"El Nido",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
+  },
+    {
+    "id":14,
+    "ownerId":1002,
+    "prpertyType":"treehouse",      
+    "price":2500,
+    "AccomodationType":"Entire place",
+    "region":"tirthan",     
+    "name":"Farm Stay in jibhi",      
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
+  },
+    {
+    "id":15,
+    "ownerId":1003,
+    "prpertyType":"treehouse",    
+    "price":4000,
+    "AccomodationType":"jannat treehouse",
+     "region":"tandi",
+    "name":"PineWood treehouse",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
+  },
+    {
+    "id":16,
+    "ownerId":1004,
+    "prpertyType":"treehouse",    
     "price":2000,
     "AccomodationType":"Private Room",
       "region":"jibhi",
     "name":"the mud house",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
+  },
+  {
+    "id":17,
+    "ownerId":1001,
+    "prpertyType":"homestay",
+    "price":1200,
+    "AccomodationType":"shared room",
+    "region":"jibhi",   
+    "name":"the roost ",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
+  },
+    {
+    "id":18,
+    "ownerId":1002,
+    "prpertyType":"homestay",      
+    "price":2500,
+    "AccomodationType":"Entire place",
+    "region":"tirthan",     
+    "name":"walk in the cloud ",      
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
+  },
+    {
+    "id":19,
+    "ownerId":1003,
+    "prpertyType":"homestay",    
+    "price":4000,
+    "AccomodationType":"Entire place",
+     "region":"tandi",
+    "name":"heavenly hideout ",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
+  },
+    {
+    "id":20,
+    "ownerId":1004,
+    "prpertyType":"homestay",    
+    "price":2000,
+    "AccomodationType":"Private Room",
+      "region":"jibhi",
+    "name":"the wayyard inn",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
+  },
+  {
+    "id":21,
+    "ownerId":109,
+    "prpertyType":"homestay",
+    "price":1200,
+    "AccomodationType":"shared room",
+    "region":"jibhi",   
+    "name":"farm homestay",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
+  },
+    {
+    "id":22,
+    "ownerId":1002,
+    "prpertyType":"homestay",      
+    "price":2500,
+    "AccomodationType":"Entire place",
+    "region":"tirthan",     
+    "name":"jobless wandrer's home",      
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
+  },
+    {
+    "id":23,
+    "ownerId":1003,
+    "prpertyType":"homestay",    
+    "price":4000,
+    "AccomodationType":"Entire place",
+     "region":"tandi",
+    "name":"quaint homestay",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
+  },
+    {
+    "id":24,
+    "ownerId":1004,
+    "prpertyType":"homestay",    
+    "price":2000,
+    "AccomodationType":"Private Room",
+      "region":"jibhi",
+    "name":"snowy cedars",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
+  },
+   {
+    "id":25,
+    "ownerId":1001,
+    "prpertyType":"mudhouse",
+    "price":1200,
+    "AccomodationType":"shared room",
+    "region":"jibhi",   
+    "name":"tiny a-frame",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
+  },
+    {
+    "id":26,
+    "ownerId":1002,
+    "prpertyType":"mudhouse",      
+    "price":2500,
+    "AccomodationType":"Entire place",
+    "region":"tirthan",     
+    "name":"pushpbhadra mudhouse",      
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
+  },
+    {
+    "id":27,
+    "ownerId":1003,
+    "prpertyType":"mudhouse",    
+    "price":4000,
+    "AccomodationType":"Entire place",
+     "region":"tandi",
+    "name":"PineWood treehouse",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
+  },
+    {
+    "id":28,
+    "ownerId":1004,
+    "prpertyType":"mudhouse",    
+    "price":2000,
+    "AccomodationType":"Private Room",
+      "region":"jibhi",
+    "name":"forest escape mudhouse",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
+  },
+  {
+    "id":29,
+    "ownerId":1001,
+    "prpertyType":"treehouse",
+    "price":1200,
+    "AccomodationType":"shared room",
+    "region":"jibhi",   
+    "name":"sernity duplex treehouse",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
+  },
+    {
+    "id":30,
+    "ownerId":1002,
+    "prpertyType":"treehouse",      
+    "price":2500,
+    "AccomodationType":"Entire place",
+    "region":"tirthan",     
+    "name":"adventure trail treehosue",      
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
+  },
+    {
+    "id":31,
+    "ownerId":1003,
+    "prpertyType":"treehouse",    
+    "price":4000,
+    "AccomodationType":"Entire place",
+     "region":"tandi",
+    "name":"high mountains treehouse",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
+  },
+    {
+    "id":32,
+    "ownerId":1004,
+    "prpertyType":"treehouse",    
+    "price":2000,
+    "AccomodationType":"Private Room",
+      "region":"jibhi",
+    "name":"treehouse at an ofbeat",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
+  },
+  {
+    "id":33,
+    "ownerId":1001,
+    "prpertyType":"mudhouse",
+    "price":1200,
+    "AccomodationType":"shared room",
+    "region":"jibhi",   
+    "name":"stone and wood cottage",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
+  },
+    {
+    "id":34,
+    "ownerId":1002,
+    "prpertyType":"mudhouse",      
+    "price":2500,
+    "AccomodationType":"Entire place",
+    "region":"tirthan",     
+    "name":"cozy hut around river",      
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
+  },
+    {
+    "id":35,
+    "ownerId":1003,
+    "prpertyType":"mudhouse",    
+    "price":4000,
+    "AccomodationType":"Entire place",
+     "region":"tandi",
+    "name":"cheerfull 4-bedroom house",
+    "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
+  },
+    {
+    "id":36,
+    "ownerId":1004,
+    "prpertyType":"mudhouse",    
+    "price":2000,
+    "AccomodationType":"Private Room",
+      "region":"jibhi",
+    "name":"moonlight view cottage",
     "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
   }
 ]
