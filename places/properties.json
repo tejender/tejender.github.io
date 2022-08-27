@@ -247,8 +247,8 @@
     "AccomodationType":"shared room",
     "region":"jibhi",   
     "name":"tiny a-frame",
-    "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
-  },
+    "img":"https://ik.imagekit.io/tejender/bnb/mudhouse/3325f8f2-bf5c-48cc-948a-5a096ce5c4a8_X3ogOMOA3v.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661595738218"
+    },
     {
     "id":26,
     "ownerId":1002,
@@ -257,8 +257,8 @@
     "AccomodationType":"Entire place",
     "region":"tirthan",     
     "name":"pushpbhadra mudhouse",      
-    "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
-  },
+    "img":"https://ik.imagekit.io/tejender/bnb/mudhouse/201a00f9-0c23-4e75-9115-4ce1ceed05f6_KscdVYPsz.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661595737595"
+    },
     {
     "id":27,
     "ownerId":1003,
@@ -267,8 +267,8 @@
     "AccomodationType":"Entire place",
      "region":"tandi",
     "name":"PineWood treehouse",
-    "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
-  },
+    "img":"https://ik.imagekit.io/tejender/bnb/mudhouse/78e9a3d8-6f36-4b1f-8f67-db331a4c2ca2_KLSKgnws6g.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1661595738223"
+    },
     {
     "id":28,
     "ownerId":1004,
@@ -277,8 +277,8 @@
     "AccomodationType":"Private Room",
       "region":"jibhi",
     "name":"forest escape mudhouse",
-    "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
-  },
+    "img":"https://ik.imagekit.io/tejender/bnb/mudhouse/018af3b7-8439-4b83-889e-8ac84180c574_207WzJtvU.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661595737605"
+    },
   {
     "id":29,
     "ownerId":1001,
@@ -327,8 +327,8 @@
     "AccomodationType":"shared room",
     "region":"jibhi",   
     "name":"stone and wood cottage",
-    "img":"https://ik.imagekit.io/tejender/bnb/properties/cootage6_XuRnz80Wj.webp"
-  },
+    "img":"https://ik.imagekit.io/tejender/bnb/mudhouse/272b2163-31ad-49a0-aaef-414cc74c2522_KcFsidCg9.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661595738193"
+    },
     {
     "id":34,
     "ownerId":1002,
@@ -337,8 +337,8 @@
     "AccomodationType":"Entire place",
     "region":"tirthan",     
     "name":"cozy hut around river",      
-    "img":"https://ik.imagekit.io/tejender/bnb/properties/c1_ZmXKkJlje.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063774"
-  },
+    "img":"https://ik.imagekit.io/tejender/bnb/mudhouse/9c78c4dc-2d10-4fb6-98ab-4e0c43ac2eec_D2MjsKuCjW.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661595737031"
+    },
     {
     "id":35,
     "ownerId":1003,
@@ -347,8 +347,8 @@
     "AccomodationType":"Entire place",
      "region":"tandi",
     "name":"cheerfull 4-bedroom house",
-    "img":"https://ik.imagekit.io/tejender/bnb/properties/c2_9cXPMAVjj.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063687"
-  },
+    "img":"https://ik.imagekit.io/tejender/bnb/mudhouse/055b1c4d-2323-4ae4-ae3a-e7c2d3551f63_lGM1lvFhM.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1661595736694"
+    },
     {
     "id":36,
     "ownerId":1004,
@@ -357,8 +357,7 @@
     "AccomodationType":"Private Room",
       "region":"jibhi",
     "name":"moonlight view cottage",
-    "img":"https://ik.imagekit.io/tejender/bnb/properties/c3_2JIPGmq99.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661154063529"
-  }
+    "img":"https://ik.imagekit.io/tejender/bnb/mudhouse/408d0aaa-7296-4f9e-ab26-744d2cfd92ac_dBr8gkyuU.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661595735506"  }
 ]
 
 
