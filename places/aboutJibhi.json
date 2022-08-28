@@ -1,0 +1,27 @@
+[{
+	"id": 1,  	
+	"placeName": "jibhi",
+	"placeAltitude": "6000",
+	"aboutPlace": "Often referred as a mesmerizing hamlet situated amidst the lush green forests and sorrounded by variegated mountains, jibhi is located in the southern side of tirthan valley and great himalayan national park.The dense pine forests, trenquil fresh water lakes and pristine temples make this place worth visting you will be spellbound after visting. you will be spwll bound after visting this place and would not want to leave it. the cosy victorian style cottages in which you can stay are an added bonus that makes you feel as if you are living int the victorian periad . so enjoy a cup of chai while listning to the swwet chirpings of the birds in the lap of nature",
+	"NearbyPlaces": {
+		"jibhi waterfall": {
+			"img": ""
+		},
+		"tandi": {
+			"img": ""
+		},
+		"sojha": {
+			"img": ""
+		},
+		"chehani fort": {
+			"img": ""
+		},
+		"jalori pass": {
+			"img": ""
+		},
+		"sareolsar ake": {
+			"img": ""
+		}
+
+	}
+}]
